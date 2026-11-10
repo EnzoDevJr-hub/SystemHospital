@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/hospital_uc12
+db.usuario=seu_usuario
+db.senha=sua_senha

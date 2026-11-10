@@ -1,0 +1,6 @@
+config.properties
+build/
+dist/
+nbproject/private/
+*.class
+desktop.ini
